@@ -1,6 +1,8 @@
 # Avatar
 
 **TODO: Add description**
+  
+  Some modules to create an avatar(icon, id, etc...) with any name that you want, just giving any string! 
 
 ## Installation
 
